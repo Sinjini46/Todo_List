@@ -24,4 +24,4 @@ This project is licensed under the MIT License.
 
 # Link to the Site 
 
-https://sinjini46.github.io/Todo_List/
+https://todo-list-gilt-gamma.vercel.app/
